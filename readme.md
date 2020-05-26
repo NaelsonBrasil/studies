@@ -15,7 +15,9 @@
 ## Entendimentos
 -  Materiais
 -  Antes de ir para as linguagens tentar em imagem no google, entender a strutura dessas técnologias, isso da uma visão ampla.
--  A ideia é entender como as coisas funciona,
+-  A ideia é entender como as coisas funciona, sempre mais além delas. Exemplo, se existe buracos negros, o que pode existir do outro lado. 
+
+## Me lembrar para eu falar sobre os bits e sobre protocolos, como HTTP funciona de verdade 
 
 ## Entendimentos
 - Diferença rest para webservice
