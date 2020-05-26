@@ -14,7 +14,7 @@
 
 ## Entendimentos
 -  Materiais
--  Antes de ir para linguagem tentar ver as imagem da strutura dela no google
+-  Antes de ir para as linguagens tentar em imagem no google, entender a strutura dessas técnologias, isso da uma visão ampla.
 -  A ideia é entender como as coisas funciona,
 
 ## Entendimentos
