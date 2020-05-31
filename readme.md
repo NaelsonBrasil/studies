@@ -31,7 +31,7 @@ JS=(object vs arrays)
 
 
 ## Explicação
-socket packet é a maneira de enviar e receber arquivos, socket é uma abertura, coloca em google images. 
+SOCKET E PACKET é a maneira de enviar e receber arquivos, socket é uma abertura, coloca em google images. 
 e packet é como nome diz o pacote. Exemplo, em todos os protocolos  HTTP, vs HTTPS vs FTP vs SOAP faz este serviço entrega e recebimento de dados. Alguns utilizando camada TCP e outro UDP. Segundo o que eu li o UDP é mais rápido, porem ele perde dados na entrega.
 Provavelmente não tenho certeza o FTP utiliza esta camada UDP e por isto ao dar upload de arquivos ele pode perder e não entregar.
 Só que HTTP é feito em cima do TCP, porem tem regras a ser seguidas. 
