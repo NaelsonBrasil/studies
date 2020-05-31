@@ -1,7 +1,8 @@
 
 ## Linguagens
-- JAVASCRIPT Até se sentir confirtável.
 
+- JAVASCRIPT Até se sentir confirtável.
+JS=(strutura pelo google imagens)
 JS=(synchronous vs asynchronous)
 JS=(object vs arrays)
 
