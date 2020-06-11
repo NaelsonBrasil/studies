@@ -40,7 +40,7 @@ Só que HTTP é feito em cima do TCP, porem tem regras a ser seguidas.
 Lembra do POST, GET poise quando você envia um post pelo HTML ele interpreta essa regra no lado do servidor de que você quer enviar um post, no caso post é envio escondido. Get geralmente usado para pegar tudo aquilo do front end que não tenha problemas de ficar visivél aos olhos dos usuários. Então o server HTTP responde tudo isto. Lembra do Header do HTML várias regras como o char utf8 que é a linguagem de simbulos como ç ã, por isto recomendei estudar sobre bytes e bits.
 Por de baixo dos panos na memoria da maquina existe diferença entre a=00000000000 para ã=1111111111 algumas linguas não precisa deste caracter então o interpretador (motor do navegador) ou compilador precisa converter isto para linguagem nativa do usuário. Entendendo sobre estruturas MVC que no caso é frameworks, ficara mais claro.
 
-## Entendimentos
+## Math
 Como eu entendo matematica, se eu estiver errado em alguns destas lição me corrija porfavor. 
 
 {([2 * a^2 + b * 2 / 2 + -2])}
